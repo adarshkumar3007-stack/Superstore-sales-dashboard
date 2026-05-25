@@ -1,3 +1,11 @@
+## Dashboard Preview
+### Executive Overview Dashboard
+![Executive Overview](Executive%20Overview%20Dashboard.png)
+### Detailed Analysis Dashboard
+![Detailed Analysis](Detailed%20Analysis%20Dashboard.png)
+### Profitability and Discount Analysis
+![Profitability Analysis](Profitability%20and%20Discount%20Analysis.png)
+
 Superstore Sales Dashboard | Power BI
 
 Project Overview
